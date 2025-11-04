@@ -157,6 +157,7 @@ Alguns descuidos podem fazer com que sua nota fique muito abaixo do esperado:
 - Penalidade individual, caso o aluno não tenha feito contribuições no repositório
 - Ausência de itens obrigatórios
 - Falta de originalidade: utilização de códigos prontos (de práticas anteriores, por exemplo)
+- Falta de dominio do tema durante a apresentção
 - Uso de elementos antigos dentro do HTML (e.g., _tags_ `<center>`, `<b>`,
   `<font>`)
 - Ignorar boas práticas de programação:
